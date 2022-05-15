@@ -1,6 +1,6 @@
-#Description :
+# Description :
 
-##Objectif:
+## Objectif:
 
 le programme source est fourni au format python et donné dans le dossier enoncé.
 
@@ -10,7 +10,7 @@ Il n'est pas possible de réaliser l'opération manuellement avec la commande "n
 
 La saisie manuelle est complètement hors délai avec la contrainte. Il est proposé ici de créer un script en python automatisant la recherche.
 
-##Solution
+## Solution
 
 le programme proposé est **GuessMe.py**. Il établit une connexion au serveur via une socket.
 
