@@ -4,7 +4,7 @@
 
 le programme source est fourni au format python et donné dans le dossier enoncé.
 
-Il consiste à deviner un nombre entier en **16 coups au maximum** et cette action est faite 64 fois.
+Il consiste à deviner un nombre entier en ** 16 coups au maximum ** et cette action est faite 64 fois.
 
 Il n'est pas possible de réaliser l'opération manuellement avec la commande "nc" (netcat) indiquée car la session dure environ une minute.
 
@@ -12,7 +12,7 @@ La saisie manuelle est complètement hors délai avec la contrainte. Il est prop
 
 ## Solution :
 
-le programme proposé est **GuessMe.py**. Il établit une connexion au serveur via une socket.
+le programme proposé est ** GuessMe.py **. Il établit une connexion au serveur via une socket.
 
 Il recherche le nombre aléatoire généré par le programme source en utilisant une simple dichotomie.
 
@@ -41,5 +41,6 @@ Open socket.
 014found,2moretogo
 015found,1moretogo
 016found,0moretogo
-Le drapeau "flag" obtenu à l'issue de la séquence calculatoire est là : 
+Au bout de la quinzième itération, 15 fois consécutives du nombre trouvé en moins de deux minutes, par l'automatisation et pas décelable manuellement,
+Le drapeau "flag" obtenu à l'issue de la séquence calculatoire s'affiche : 
 FCSC{7b20416c4f019ea4486e1e5c13d2d1667eebac732268b46268a9b64035ab294d}
