@@ -60,4 +60,5 @@ Open socket.
 
 Au bout de la quinzième itération, 15 fois consécutives du nombre trouvé en moins de deux minutes, par l'automatisation et pas décelable manuellement,
 Le drapeau "flag" obtenu à l'issue de la séquence calculatoire s'affiche : 
-FCSC{7b20416c4f019ea4486e1e5c13d2d1667eebac732268b46268a9b64035ab294d}
+
+**FCSC{7b20416c4f019ea4486e1e5c13d2d1667eebac732268b46268a9b64035ab294d}**
