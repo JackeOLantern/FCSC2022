@@ -24,6 +24,6 @@ demande etc.. jusqu'à la parite de la 128ème demande. Ensuite, est calculée l
 des bits positionnés devraient correspondre : les 128 premières demandes devraient correspondre aux 8 dernières, sans la modification de là où l'énoncé a menti.
 
 L'exécution du programme demande bit à bit si les 128 bits sont positionnés: donc, tous les bits qui sont du nombre sont testés donc le nombre en binaire est automatiquement obtenu.
-Il s'avère qu'un des chiffres est volontairement faux d'après l'énoncé: il faut déterminer lequel avec les 8 appels restant car sur les 136 appels autorisés, on en a utilisé 128.
+Il s'avère qu'un des chiffres est volontairement faux d'après l'énoncé: il faut déterminer lequel avec les 8 appels restant, car sur les 136 appels autorisés, on en a utilisé 128.
 
-L'algorithme doit permettre de trouver le bit modifié dans les appels précédents au bout des huits tests suppléeet si la bonne réponse est trouvée, le programme a produit le "flag".
+L'algorithme doit permettre de trouver le bit modifié dans les appels précédents au bout des huits tests suppléés et si la bonne réponse est trouvée, le programme a produit le "flag".
